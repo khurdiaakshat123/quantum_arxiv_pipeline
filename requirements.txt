@@ -1,1 +1,10 @@
+streamlit
 python-dotenv
+supabase
+langchain-openai
+langchain-ollama
+langchain-groq
+langchain-community
+langchain-core
+pypdf
+sentence-transformers
