@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Large Hugging Face cache
+.hf_cache/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Local log files
+*.log
+ingestion.log
+
+# Streamlit local settings
+.streamlit/
